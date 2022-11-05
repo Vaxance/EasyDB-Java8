@@ -24,4 +24,5 @@ Again problems with mysql query? EasyDB makes everything as easy as it gets.<br>
 
 <hr>
 
+<!-- (C) 2022 FlorianLetsPlays -->
 
