@@ -13,8 +13,8 @@ Again problems with mysql query? EasyDB makes everything as easy as it gets.<br>
 
 <dependencies>
     <dependency>
-	      <groupId>com.github.FlorianLetsPlays</groupId>
-	      <artifactId>EasyDB-Java8</artifactId>
+	<groupId>com.github.FlorianLetsPlays</groupId>
+	<artifactId>EasyDB-Java8</artifactId>
         <version>LATEST</version>
         <scope>compile</scope>
     </dependency>
